@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "SlimeBoxPvP.aternos.me",
+    "port": 64352,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": -10,
     "z": 0
   },
   "utils": {
